@@ -14,7 +14,7 @@ Numerous Internet-based social entities need help ensuring each individual is a 
 
 Bankless Academy is a free-to-access, open-source education platform hosting a range of lessons that help web3 users “go Bankless.” These lessons focus on topics such as Blockchain Basics, Decentralized Finance, Non-Fungible Tokens, DAOs, Community, and more - each in service of boosting user confidence and safety.
 
-The Bankless Academy platform offers Badges that are on-chain credentials claimable by Explorers who have completed Academy lessons. Powered by Mint Kudos, Badges display the knowledge journey of Explorers across lessons and modules. To recognize achievements and deliver Badges to Explorers that have completed their lessons, the platform must confirm that it interacts with a unique user. This was enabled using an integration with Gitcoin Passport.
+The Bankless Academy platform offers Badges that are on-chain credentials claimable by Explorers who have completed Academy lessons. Powered by Mint Kudos, Badges display the knowledge journey of Explorers across lessons and modules. To recognize achievements and deliver Badges to Explorers that have completed their lessons, the platform must confirm that it interacts with a unique user. This was enabled using integration with Gitcoin Passport.
 
 ### What is Gitcoin Passport?
 
@@ -66,4 +66,4 @@ When communities gate their projects with this defense, and more users create th
 
 
 
-_Written with inputs from DidierKrux.eth, Tetranome.eth and OrnΞllaWeb3.eth_
+_Written with inputs from DidierKrux.eth, Tetranome.eth, and OrnΞllaWeb3.eth_
